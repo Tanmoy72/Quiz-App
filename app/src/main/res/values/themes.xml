@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Quiz" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#651FFF</item>
+        <item name="colorPrimaryDark">#651FFF</item>
+        <item name="colorAccent">#EB1313</item>
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Quiz" parent="Base.Theme.Quiz" />
+
+    <style name="AppThemeNoActionBar" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#651FFF</item>
+        <item name="colorPrimaryDark">#651FFF</item>
+        <item name="colorAccent">#EB1313</item>
+    </style>
+</resources>
